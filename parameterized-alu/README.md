@@ -1,9 +1,8 @@
 # Parameterized ALU
 
-A basic parameterized ALU designed using Verilog HDL.
+A basic ALU written in Verilog. Width is configurable using a parameter, default is 8-bit.
 
 ## Operations
-
 - Addition
 - Subtraction
 - AND
@@ -11,13 +10,11 @@ A basic parameterized ALU designed using Verilog HDL.
 - XOR
 - Left Shift
 - Right Shift
-- Comparisons
+- Comparisons (==, >, <, >=, <=)
 
-## Tools Used
+## Files
+- alu.v - the ALU module
+- alu_tb.v - testbench
 
-- Xilinx Vivado
-- XSim Simulator
-
-## Language
-
-- Verilog HDL
+## Tools
+Xilinx Vivado (XSim) for simulation
