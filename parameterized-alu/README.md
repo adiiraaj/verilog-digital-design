@@ -1,6 +1,7 @@
 # Parameterized ALU
 
-A basic ALU written in Verilog. Width is configurable using a parameter, default is 8-bit.
+A basic ALU written in Verilog. The data width can be changed using a parameter. The default width is 8 bits.
+
 
 ## Operations
 - Addition
@@ -18,3 +19,5 @@ A basic ALU written in Verilog. Width is configurable using a parameter, default
 
 ## Tools
 Xilinx Vivado (XSim) for simulation
+
+![simulation waveform](simulation.png)
