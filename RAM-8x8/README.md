@@ -22,4 +22,4 @@ Xilinx Vivado (XSim) for simulation
 
 ## Simulation Waveform
 
-Add your simulation waveform screenshot here after verifying the design.
+![RAM 8x8 Simulation Waveform](simulation.png)
