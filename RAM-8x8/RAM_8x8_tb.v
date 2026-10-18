@@ -24,14 +24,15 @@ module RAM_8x8_tb(
             
             wr_enb = 1;
             wr_add = 3'b100;
-            data_in = 5;
+            data_in = 8'd5;
             #10;
             
             wr_enb = 1;
             wr_add = 3'b101;
-            data_in = 10;
+            data_in = 8'd10;
             #10;
             
+            wr_enb = 0;
             rd_add = 3'b100;
             #10;
             rd_add = 3'b101;
