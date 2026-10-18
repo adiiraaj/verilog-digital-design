@@ -6,7 +6,8 @@ A collection of digital design projects I am working on while learning Verilog a
 
 | # | Project | What it covers |
 |---|---------|----------------|
-| 01 | [Parameterized ALU](./parameterized-alu) | combinational logic, parameterization |
+| 01 | [Parameterized-ALU](./parameterized-alu) | combinational logic, parameterization |
+| 02 | [RAM-8x8](./RAM-8x8) | Sequential logic, memory operations |
 
 More will be added as I go.
 
