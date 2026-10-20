@@ -28,5 +28,7 @@ Xilinx Vivado (XSim) for simulation
 ## Simulation Waveform
 
 ![Elevator Controller Simulation](simulation.png)
+
 ![Detailed Waveform Part 1](simulation_details_1.png)
+
 ![Detailed Waveform Part 2](simulation_details_2.png)
